@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1260FCC8-C9D9-4701-A171-49E2ECC5F1A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008110-000A71D601C2801E" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiApp1/MauiApp1.csproj">
+    <Files>
+      <File FileName="MauiApp1/MauiApp1.csproj" Line="38" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiApp1" expanded="True">
+            <Node name="MauiApp1" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
